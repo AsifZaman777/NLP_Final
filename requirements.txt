@@ -4,4 +4,6 @@ nltk>=3.6.0
 tokenizers>=0.13.0
 matplotlib>=3.4.0
 scikit-learn>=1.0.0
+torch>=2.0.0
+gensim>=4.0.0
 
